@@ -1,0 +1,50 @@
+FOR LOOPS
+
+for (var i = 0; i < 10; i++) {
+  console.log(i);
+}
+
+
+start, end, increment - how much do you want to go up each time
+***** anything in between { } means this is when you execute that code.
+
+***** for increment ... use syntax +=  DONT FORGET EQUALS SIGN!
+
+
+
+FUNCTIONS
+
+//Define Function
+function sum(x,y) {
+  console.log(x + y);
+}
+
+//CALL
+sum(20,999);
+
+X AND Y can be named ANYTHING
+
+
+
+Visually in developer tools the color is different if you compare a number vs a string;
+
+Don't forget the comma when writing objects.
+
+ARRAY'S start at zero! BUT .length starts at 1!
+
+Whenever you see an array you are probably going to use a for loop.
+
+Two things that are false evaluate to false.
+console.log(false && false);
+
+double equals checks for value
+triple equals checks for value and type.
+ALWAYS use triple equals.
+
+
+to check what data type a variable is typeof
+console.log(typeof answer);
+
+
+--------------------------------------------------
+WEEKLY PROJECT google search - bootstrap free template
